@@ -1,9 +1,6 @@
 # Demo Store
 
-
 By [Andrew Thul](https://github.com/adthul).
-
-[![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
 ## Description
 **Demo Store** is a simple demo app with a scaffold built blog-style "products" page. Basic
@@ -11,7 +8,7 @@ Zurb Foundation styling throughtout. Enjoy!!!
 
 ## Installation
 
-Fork project from github
+clone project from github
 
 cd the 'store' folder in your command line:
 
@@ -66,3 +63,7 @@ send us a pull request.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+[MIT License](http://adthul.mit-license.org)
